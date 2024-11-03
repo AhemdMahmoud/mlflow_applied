@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/244243876130104443/3246804064d9496ca0682f530f63794e/artifacts
+end_time: 1730635518171
+entry_point_name: ''
+experiment_id: '244243876130104443'
+lifecycle_stage: active
+run_id: 3246804064d9496ca0682f530f63794e
+run_name: amusing-cod-229
+run_uuid: 3246804064d9496ca0682f530f63794e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730635515845
+status: 3
+tags: []
+user_id: k

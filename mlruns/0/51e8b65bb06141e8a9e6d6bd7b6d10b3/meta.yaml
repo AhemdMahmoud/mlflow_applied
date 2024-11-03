@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/51e8b65bb06141e8a9e6d6bd7b6d10b3/artifacts
+deleted_time: 1730626863438
+end_time: 1730626648253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51e8b65bb06141e8a9e6d6bd7b6d10b3
+run_name: able-panda-233
+run_uuid: 51e8b65bb06141e8a9e6d6bd7b6d10b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730626641027
+status: 3
+tags: []
+user_id: k

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/613486eb2e58455b85b9e1251b4715ca/artifacts
+end_time: 1730642032148
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 613486eb2e58455b85b9e1251b4715ca
+run_name: marvelous-mink-140
+run_uuid: 613486eb2e58455b85b9e1251b4715ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642026467
+status: 3
+tags: []
+user_id: k

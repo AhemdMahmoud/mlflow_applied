@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/20b8245c4d66437d8b5c50d77d777890/artifacts
+deleted_time: 1730626556644
+end_time: 1730626536498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 20b8245c4d66437d8b5c50d77d777890
+run_name: merciful-midge-751
+run_uuid: 20b8245c4d66437d8b5c50d77d777890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730626533934
+status: 4
+tags: []
+user_id: k

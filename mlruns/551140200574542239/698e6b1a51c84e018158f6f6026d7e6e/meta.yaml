@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/698e6b1a51c84e018158f6f6026d7e6e/artifacts
+end_time: 1730642383147
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 698e6b1a51c84e018158f6f6026d7e6e
+run_name: fortunate-conch-866
+run_uuid: 698e6b1a51c84e018158f6f6026d7e6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642376845
+status: 3
+tags: []
+user_id: k

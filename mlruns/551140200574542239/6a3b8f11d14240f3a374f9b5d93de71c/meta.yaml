@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/6a3b8f11d14240f3a374f9b5d93de71c/artifacts
+end_time: 1730642370377
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 6a3b8f11d14240f3a374f9b5d93de71c
+run_name: unleashed-hound-981
+run_uuid: 6a3b8f11d14240f3a374f9b5d93de71c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642364149
+status: 3
+tags: []
+user_id: k

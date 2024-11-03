@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239
+creation_time: 1730641622807
+experiment_id: '551140200574542239'
+last_update_time: 1730641622807
+lifecycle_stage: active
+name: optuna_experiment

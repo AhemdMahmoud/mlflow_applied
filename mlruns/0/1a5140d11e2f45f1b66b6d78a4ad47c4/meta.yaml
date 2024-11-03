@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1a5140d11e2f45f1b66b6d78a4ad47c4/artifacts
+deleted_time: 1730626550201
+end_time: 1730625454052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1a5140d11e2f45f1b66b6d78a4ad47c4
+run_name: intrigued-mouse-11
+run_uuid: 1a5140d11e2f45f1b66b6d78a4ad47c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730625453749
+status: 4
+tags: []
+user_id: k

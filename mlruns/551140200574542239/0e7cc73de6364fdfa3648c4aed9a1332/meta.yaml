@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/0e7cc73de6364fdfa3648c4aed9a1332/artifacts
+end_time: 1730642214335
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 0e7cc73de6364fdfa3648c4aed9a1332
+run_name: efficient-lynx-606
+run_uuid: 0e7cc73de6364fdfa3648c4aed9a1332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642207877
+status: 3
+tags: []
+user_id: k

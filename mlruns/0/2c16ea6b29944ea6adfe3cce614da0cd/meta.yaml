@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2c16ea6b29944ea6adfe3cce614da0cd/artifacts
+deleted_time: 1730626550200
+end_time: 1730625448491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c16ea6b29944ea6adfe3cce614da0cd
+run_name: intrigued-seal-575
+run_uuid: 2c16ea6b29944ea6adfe3cce614da0cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730625448305
+status: 4
+tags: []
+user_id: k

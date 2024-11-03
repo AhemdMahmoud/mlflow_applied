@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/222324063739095797/e54def7abdbb4822a86369af19f8d996/artifacts
+end_time: 1730632673414
+entry_point_name: ''
+experiment_id: '222324063739095797'
+lifecycle_stage: active
+run_id: e54def7abdbb4822a86369af19f8d996
+run_name: unleashed-pug-463
+run_uuid: e54def7abdbb4822a86369af19f8d996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730632667336
+status: 3
+tags: []
+user_id: k

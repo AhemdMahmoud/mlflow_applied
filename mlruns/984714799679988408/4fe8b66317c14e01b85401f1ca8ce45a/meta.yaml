@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/984714799679988408/4fe8b66317c14e01b85401f1ca8ce45a/artifacts
+end_time: 1730633750608
+entry_point_name: ''
+experiment_id: '984714799679988408'
+lifecycle_stage: active
+run_id: 4fe8b66317c14e01b85401f1ca8ce45a
+run_name: marvelous-hog-147
+run_uuid: 4fe8b66317c14e01b85401f1ca8ce45a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730633744332
+status: 3
+tags: []
+user_id: k

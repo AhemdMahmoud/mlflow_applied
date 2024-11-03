@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/937018307665791479/f5de206819cd479b9d3601541e442e77/artifacts
+end_time: 1730634541754
+entry_point_name: ''
+experiment_id: '937018307665791479'
+lifecycle_stage: active
+run_id: f5de206819cd479b9d3601541e442e77
+run_name: thundering-yak-735
+run_uuid: f5de206819cd479b9d3601541e442e77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730634535389
+status: 4
+tags: []
+user_id: k

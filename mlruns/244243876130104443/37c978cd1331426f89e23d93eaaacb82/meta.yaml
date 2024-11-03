@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/244243876130104443/37c978cd1331426f89e23d93eaaacb82/artifacts
+end_time: 1730636200059
+entry_point_name: ''
+experiment_id: '244243876130104443'
+lifecycle_stage: active
+run_id: 37c978cd1331426f89e23d93eaaacb82
+run_name: dashing-squirrel-490
+run_uuid: 37c978cd1331426f89e23d93eaaacb82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730636119510
+status: 3
+tags: []
+user_id: k

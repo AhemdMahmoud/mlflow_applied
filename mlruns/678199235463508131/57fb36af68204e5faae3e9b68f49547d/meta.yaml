@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/678199235463508131/57fb36af68204e5faae3e9b68f49547d/artifacts
+end_time: 1730636550798
+entry_point_name: ''
+experiment_id: '678199235463508131'
+lifecycle_stage: active
+run_id: 57fb36af68204e5faae3e9b68f49547d
+run_name: gaudy-hawk-89
+run_uuid: 57fb36af68204e5faae3e9b68f49547d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730636543989
+status: 3
+tags: []
+user_id: k

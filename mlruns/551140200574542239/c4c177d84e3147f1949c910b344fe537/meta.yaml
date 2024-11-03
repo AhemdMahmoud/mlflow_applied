@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/c4c177d84e3147f1949c910b344fe537/artifacts
+end_time: 1730642460417
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: c4c177d84e3147f1949c910b344fe537
+run_name: blushing-asp-380
+run_uuid: c4c177d84e3147f1949c910b344fe537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642455449
+status: 3
+tags: []
+user_id: k

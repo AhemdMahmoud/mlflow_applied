@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/937018307665791479/036f7f3497974ea6b4c2a634d81be434/artifacts
+end_time: 1730634461477
+entry_point_name: ''
+experiment_id: '937018307665791479'
+lifecycle_stage: active
+run_id: 036f7f3497974ea6b4c2a634d81be434
+run_name: placid-croc-325
+run_uuid: 036f7f3497974ea6b4c2a634d81be434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730634461348
+status: 4
+tags: []
+user_id: k

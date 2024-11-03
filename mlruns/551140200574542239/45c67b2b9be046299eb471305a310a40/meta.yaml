@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/45c67b2b9be046299eb471305a310a40/artifacts
+end_time: 1730642207816
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 45c67b2b9be046299eb471305a310a40
+run_name: calm-elk-14
+run_uuid: 45c67b2b9be046299eb471305a310a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642200739
+status: 3
+tags: []
+user_id: k

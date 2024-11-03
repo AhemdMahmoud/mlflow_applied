@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/773684550918077722/cadca4a7178f4f66961e3dcbdb55cc36/artifacts
+deleted_time: 1730631259770
+end_time: 1730631106259
+entry_point_name: ''
+experiment_id: '773684550918077722'
+lifecycle_stage: deleted
+run_id: cadca4a7178f4f66961e3dcbdb55cc36
+run_name: gregarious-flea-363
+run_uuid: cadca4a7178f4f66961e3dcbdb55cc36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730630832085
+status: 3
+tags: []
+user_id: k

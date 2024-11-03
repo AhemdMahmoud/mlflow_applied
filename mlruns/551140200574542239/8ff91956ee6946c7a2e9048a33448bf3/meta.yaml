@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/8ff91956ee6946c7a2e9048a33448bf3/artifacts
+end_time: 1730642829512
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 8ff91956ee6946c7a2e9048a33448bf3
+run_name: victorious-croc-503
+run_uuid: 8ff91956ee6946c7a2e9048a33448bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642821779
+status: 3
+tags: []
+user_id: k

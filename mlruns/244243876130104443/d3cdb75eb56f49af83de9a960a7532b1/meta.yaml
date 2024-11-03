@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/244243876130104443/d3cdb75eb56f49af83de9a960a7532b1/artifacts
+end_time: 1730636116288
+entry_point_name: ''
+experiment_id: '244243876130104443'
+lifecycle_stage: active
+run_id: d3cdb75eb56f49af83de9a960a7532b1
+run_name: industrious-wren-119
+run_uuid: d3cdb75eb56f49af83de9a960a7532b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730636072937
+status: 3
+tags: []
+user_id: k

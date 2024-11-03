@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/7d18a3abad384b29a5d1ae5ba955abf3/artifacts
+end_time: 1730642836024
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 7d18a3abad384b29a5d1ae5ba955abf3
+run_name: marvelous-yak-292
+run_uuid: 7d18a3abad384b29a5d1ae5ba955abf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642829548
+status: 3
+tags: []
+user_id: k

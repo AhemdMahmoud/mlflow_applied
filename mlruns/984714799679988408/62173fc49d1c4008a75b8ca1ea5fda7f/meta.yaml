@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/984714799679988408/62173fc49d1c4008a75b8ca1ea5fda7f/artifacts
+end_time: 1730633646587
+entry_point_name: ''
+experiment_id: '984714799679988408'
+lifecycle_stage: active
+run_id: 62173fc49d1c4008a75b8ca1ea5fda7f
+run_name: monumental-crow-321
+run_uuid: 62173fc49d1c4008a75b8ca1ea5fda7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730633638308
+status: 3
+tags: []
+user_id: k

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/70b14c278db34bc4975f3cae523e0fda/artifacts
+end_time: 1730642863806
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 70b14c278db34bc4975f3cae523e0fda
+run_name: masked-auk-20
+run_uuid: 70b14c278db34bc4975f3cae523e0fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642857289
+status: 3
+tags: []
+user_id: k

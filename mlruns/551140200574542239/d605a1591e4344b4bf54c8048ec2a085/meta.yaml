@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/d605a1591e4344b4bf54c8048ec2a085/artifacts
+end_time: 1730642850693
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: d605a1591e4344b4bf54c8048ec2a085
+run_name: dazzling-shad-204
+run_uuid: d605a1591e4344b4bf54c8048ec2a085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642844146
+status: 3
+tags: []
+user_id: k

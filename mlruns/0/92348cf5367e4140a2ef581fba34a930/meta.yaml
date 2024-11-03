@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/92348cf5367e4140a2ef581fba34a930/artifacts
+deleted_time: 1730625393315
+end_time: 1730624503842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 92348cf5367e4140a2ef581fba34a930
+run_name: tasteful-mule-452
+run_uuid: 92348cf5367e4140a2ef581fba34a930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730624503647
+status: 4
+tags: []
+user_id: k

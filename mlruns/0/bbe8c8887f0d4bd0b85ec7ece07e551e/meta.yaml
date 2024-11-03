@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/bbe8c8887f0d4bd0b85ec7ece07e551e/artifacts
+deleted_time: 1730625393313
+end_time: 1730625199199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bbe8c8887f0d4bd0b85ec7ece07e551e
+run_name: mlflow on colab
+run_uuid: bbe8c8887f0d4bd0b85ec7ece07e551e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730625198994
+status: 3
+tags: []
+user_id: k

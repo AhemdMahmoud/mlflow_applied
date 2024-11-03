@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/7cd8b5b663f94766bbcf97ef1a56740f/artifacts
+end_time: 1730642844082
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 7cd8b5b663f94766bbcf97ef1a56740f
+run_name: learned-panda-673
+run_uuid: 7cd8b5b663f94766bbcf97ef1a56740f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642836100
+status: 3
+tags: []
+user_id: k

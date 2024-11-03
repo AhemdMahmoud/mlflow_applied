@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/4f948f5afedc4c1b8ebdb2865857c503/artifacts
+end_time: 1730642219374
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 4f948f5afedc4c1b8ebdb2865857c503
+run_name: shivering-smelt-803
+run_uuid: 4f948f5afedc4c1b8ebdb2865857c503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642214382
+status: 3
+tags: []
+user_id: k

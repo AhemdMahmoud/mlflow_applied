@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/937b2f46d7964aef8548bc595e7743e5/artifacts
+deleted_time: 1730625393316
+end_time: 1730624971156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 937b2f46d7964aef8548bc595e7743e5
+run_name: bright-frog-993
+run_uuid: 937b2f46d7964aef8548bc595e7743e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730624970828
+status: 3
+tags: []
+user_id: k

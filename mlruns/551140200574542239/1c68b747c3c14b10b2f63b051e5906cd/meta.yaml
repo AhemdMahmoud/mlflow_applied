@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/1c68b747c3c14b10b2f63b051e5906cd/artifacts
+end_time: 1730642821725
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 1c68b747c3c14b10b2f63b051e5906cd
+run_name: enthused-cub-923
+run_uuid: 1c68b747c3c14b10b2f63b051e5906cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642813845
+status: 3
+tags: []
+user_id: k

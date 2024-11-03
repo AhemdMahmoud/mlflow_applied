@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/88fa3f9edb8f449c98a1e2ee4ca6423a/artifacts
+end_time: 1730642192902
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: 88fa3f9edb8f449c98a1e2ee4ca6423a
+run_name: skillful-perch-28
+run_uuid: 88fa3f9edb8f449c98a1e2ee4ca6423a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642186678
+status: 3
+tags: []
+user_id: k

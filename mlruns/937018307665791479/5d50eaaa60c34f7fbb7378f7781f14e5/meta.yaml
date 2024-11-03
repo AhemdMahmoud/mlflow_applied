@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/937018307665791479/5d50eaaa60c34f7fbb7378f7781f14e5/artifacts
+end_time: 1730634486106
+entry_point_name: ''
+experiment_id: '937018307665791479'
+lifecycle_stage: active
+run_id: 5d50eaaa60c34f7fbb7378f7781f14e5
+run_name: sassy-crow-267
+run_uuid: 5d50eaaa60c34f7fbb7378f7781f14e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730634477583
+status: 4
+tags: []
+user_id: k

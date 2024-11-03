@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/cc6ad0142f2c4a68918034b4f5430841/artifacts
+end_time: 1730642857240
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: cc6ad0142f2c4a68918034b4f5430841
+run_name: thundering-bear-684
+run_uuid: cc6ad0142f2c4a68918034b4f5430841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642850732
+status: 3
+tags: []
+user_id: k

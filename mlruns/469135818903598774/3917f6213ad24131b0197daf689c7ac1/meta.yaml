@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/469135818903598774/3917f6213ad24131b0197daf689c7ac1/artifacts
+end_time: 1730636272793
+entry_point_name: ''
+experiment_id: '469135818903598774'
+lifecycle_stage: active
+run_id: 3917f6213ad24131b0197daf689c7ac1
+run_name: bustling-smelt-323
+run_uuid: 3917f6213ad24131b0197daf689c7ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730636264967
+status: 3
+tags: []
+user_id: k

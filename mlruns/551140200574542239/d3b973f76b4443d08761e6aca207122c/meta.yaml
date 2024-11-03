@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/k/Downloads/MLflow/mlruns/551140200574542239/d3b973f76b4443d08761e6aca207122c/artifacts
+end_time: 1730642026418
+entry_point_name: ''
+experiment_id: '551140200574542239'
+lifecycle_stage: active
+run_id: d3b973f76b4443d08761e6aca207122c
+run_name: luminous-snail-150
+run_uuid: d3b973f76b4443d08761e6aca207122c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730642015640
+status: 3
+tags: []
+user_id: k

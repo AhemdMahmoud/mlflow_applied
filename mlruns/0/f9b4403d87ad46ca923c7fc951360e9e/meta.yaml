@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f9b4403d87ad46ca923c7fc951360e9e/artifacts
+end_time: 1730627109376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9b4403d87ad46ca923c7fc951360e9e
+run_name: delicate-midge-977
+run_uuid: f9b4403d87ad46ca923c7fc951360e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730627100503
+status: 3
+tags: []
+user_id: k

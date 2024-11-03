@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/91b3d17de4834f33b700888048f25ea9/artifacts
+deleted_time: 1730627041531
+end_time: 1730627007274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 91b3d17de4834f33b700888048f25ea9
+run_name: marvelous-doe-569
+run_uuid: 91b3d17de4834f33b700888048f25ea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730627007045
+status: 4
+tags: []
+user_id: k
