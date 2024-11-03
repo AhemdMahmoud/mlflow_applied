@@ -113,4 +113,7 @@ With MLflow and Optuna, you can track experiments, log parameters, metrics, and 
 
 Feel free to customize this guide based on your specific project needs or additional features you wish to highlight!
 
+### if you faced any issues in run use `python -m mlflow ui`
+
+
 # Tanks Dr `Eman Raslan`🤷‍♀️✨
